@@ -8,7 +8,7 @@ public class Cat implements AnimalType {
 	}
 
 	public void sound() {
-		System.out.println("Cat name="+myName+": "+"MEow~");
+		System.out.println("Cat name="+myName+": "+"야옹~");
 	}
 
 }
